@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Computatrums
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning Computer Science.
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
