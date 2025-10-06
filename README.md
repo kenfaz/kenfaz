@@ -1,10 +1,5 @@
 
-<div align="center">
-  
-<p>Hello, I'm</p>
-<h1>0XD4C</h1>
-<p>Dirty Deeds Done Dirt Cheap</p>
-<hr/>
+<div align="center"> 
   <img src="https://streak-stats.demolab.com?user=kenfaz&theme=gotham&hide_border=false" alt="kenfaz's GitHub Stats" /><br>
 </div>
 <div align="center">
