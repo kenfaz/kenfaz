@@ -1,3 +1,6 @@
+## About Me
+Hello, I'm Kenken, a web developer and Information Technology student based in the Philippines. <br />
+I like to read books, play video games, and build web applications.
 
 ## Tools
 <img align="left" alt="vscode" width="30px" style="padding-right: 10px; padding-left: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
