@@ -7,11 +7,14 @@ I like to read books, play video games, and build web applications.
 <img align="left" alt="vim" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
 <img align="left" alt="git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="windows" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />   
-<img  width="30px" alt="ubuntu" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />   
+<img align="left" alt="ubuntu" width="30px" alt="ubuntu" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />   
+<img alt="figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+          
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenfaz&theme=gotham&show_icons=true&hide_border=true&layout=compact" alt="kenfaz's GitHub Stats" /> 
 
 ## 🎮 Stats          
 <div align="left"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenfaz&theme=gotham&show_icons=true&hide_border=true&layout=compact" alt="kenfaz's GitHub Stats" /> <br/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=kenfaz&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="kenfaz's GitHub Stats" /><br>
 <img src="https://streak-stats.demolab.com?user=kenfaz&theme=gotham&hide_border=true" alt="kenfaz's GitHub Stats" /><br>
 </div>
