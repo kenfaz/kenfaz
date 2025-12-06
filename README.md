@@ -2,7 +2,7 @@
 Hello, I'm Kenken, a web developer and Information Technology student based in the Philippines. <br />
 I like to read books, work out, play video games, and build web applications.
 
-## 🔨 Tools
+## 🔨 Tools & Technologies
 <img align="left" alt="vscode" width="30px" style="padding-right: 10px; padding-left: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" alt="vim" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
 <img align="left" alt="git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
