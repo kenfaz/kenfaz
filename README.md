@@ -4,6 +4,12 @@ Hello, I'm **Kenken**, a web developer and Information Technology student based 
 I like to read books, work out, play video games, and build web applications.
 > *"He who fears death will never be able to do anything worthy of a living man"*
 
+## 🎮 Stats          
+
+![kenfaz's GitHub Stats](https://readme-stats-github.pages.dev/api?username=kenfaz&theme=dark)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=kenfaz&theme=dark)
+
+
 ## 🔨 Tools & Technologies
 <img align="left" alt="vscode" width="30px" style="padding-right: 10px; padding-left: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" alt="vim" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
@@ -28,13 +34,7 @@ I like to read books, work out, play video games, and build web applications.
 <img align="left" alt="TailwindCSS" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>                   
 <img alt="spotify" width="30px" height="30px" src="https://preview.redd.it/i-made-these-two-gifs-download-link-below-trust-me-they-are-v0-3meai6x9pe9a1.gif?width=612&auto=webp&s=4404029d632b3400b7dbcae9c12757c3b472425d">
           
-## 🎮 Stats          
-<div align="left"> 
 
-
-![kenfaz's GitHub Stats](https://readme-stats-github.pages.dev/api?username=kenfaz&theme=dark)
-![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=kenfaz&theme=dark)
-</div>
 <div align="left">
   </div>
 
