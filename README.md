@@ -11,12 +11,12 @@ I like to read books, work out, play video games, and build web applications.
 <img align="left" alt="figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 <img alt="spotify" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg">
           
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenfaz&theme=gotham&show_icons=true&hide_border=true&layout=compact" alt="kenfaz's GitHub Stats" /> 
+
 
 ## 🎮 Stats          
 <div align="left"> 
 
-<img src="https://github-readme-stats.vercel.app/api?username=kenfaz&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="kenfaz's GitHub Stats" /><br>
+
 <img src="https://streak-stats.demolab.com?user=kenfaz&theme=gotham&hide_border=true" alt="kenfaz's GitHub Stats" /><br>
 </div>
 <div align="left">
