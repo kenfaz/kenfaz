@@ -24,8 +24,8 @@ I like to read books, work out, play video games, and build web applications.
           
 ## 🎆 Library and Frameworks
 <img align="left" alt="React" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-<img alt="TailwindCSS" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>                   
-
+<img align="left" alt="TailwindCSS" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>                   
+<img alt="spotify" width="30px" height="30px" src="https://preview.redd.it/i-made-these-two-gifs-download-link-below-trust-me-they-are-v0-3meai6x9pe9a1.gif?width=612&auto=webp&s=4404029d632b3400b7dbcae9c12757c3b472425d">
           
 ## 🎮 Stats          
 <div align="left"> 
