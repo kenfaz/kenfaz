@@ -1,4 +1,5 @@
 ## 👀 About Me
+![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=Dirty%20Deeds%20Done%20Dirt%20Cheap&theme=dark&color=%23ffffff&particleColor=%23000000&background=%23ffffff) <br/>
 Hello, I'm **Kenken**, a web developer and Information Technology student based in the Philippines. <br />
 I like to read books, work out, play video games, and build web applications.
 > *"He who fears death will never be able to do anything worthy of a living man"*
@@ -31,10 +32,8 @@ I like to read books, work out, play video games, and build web applications.
 <div align="left"> 
 
 
-<img src="https://streak-stats.demolab.com?user=kenfaz&theme=gotham&hide_border=true" alt="kenfaz's GitHub Stats" /><br>
-
-
-          
+![kenfaz's GitHub Stats](https://readme-stats-github.pages.dev/api?username=kenfaz&theme=dark)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=kenfaz&theme=dark)
 </div>
 <div align="left">
   </div>
