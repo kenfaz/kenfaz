@@ -1,9 +1,11 @@
 ## 👀 About Me
 ![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=Dirty%20Deeds%20Done%20Dirt%20Cheap&theme=dark&color=%23ffffff&particleColor=%23000000&background=%23ffffff) <br/>
 ```python
-name = "Kenken"
+name = "kenken"
 age = 20
-hobbies = ["Reading", "Gym", "Programming", "Gaming", "Watching documentaries"]
+profession = "information technology"
+location = "philippines"
+hobbies = ["reading", "gym", "programming", "gaming", "watching documentaries"]
 ```
 > *"He who fears death will never be able to do anything worthy of a living man"*
 
