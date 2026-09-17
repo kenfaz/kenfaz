@@ -21,13 +21,18 @@ I like to read books, work out, play video games, and build web applications.
 <img align="left" alt="JavaScript" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />   
 <img alt="Bash" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
           
-          
+## 🎆 Library and Frameworks
+<img align="left" alt="React" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+<img alt="TailwindCSS" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />                   
                 
 ## 🎮 Stats          
 <div align="left"> 
 
 
 <img src="https://streak-stats.demolab.com?user=kenfaz&theme=gotham&hide_border=true" alt="kenfaz's GitHub Stats" /><br>
+
+
+          
 </div>
 <div align="left">
   </div>
