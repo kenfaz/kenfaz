@@ -7,7 +7,7 @@ location = "philippines"
 profession = "information technology"
 hobbies = ["reading", "gym", "programming", "gaming", "watching documentaries"]
 ```
-> *"He who fears death will never be able to do anything worthy of a living man"*
+> *"Experience without theory is blind, but theory without experience is mere intellectual play."*
 
 
 
