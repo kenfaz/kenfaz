@@ -31,8 +31,8 @@ while drink == "coffee":
 <img align="left" alt="git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="windows" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />   
 <img align="left" alt="ubuntu" width="30px" alt="ubuntu" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />   
-<img align="left" alt="figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-<img alt="spotify" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg">
+<img alt="figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<!-- <img alt="spotify" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg"> -->
           
 ## 🍵 Languages
 <img align="left" alt="C" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
