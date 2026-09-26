@@ -6,6 +6,7 @@ def self():
           age = 20
           location = "philippines"
           profession = "information technology"
+          occupation = "student"
           focus = "ui/ux web design"
           hobbies = ["reading", "gym", "programming", "gaming", "watching documentaries"]
           return 0
