@@ -8,7 +8,7 @@ def self():
           profession = "information technology"
           occupation = "student"
           focus = "ui/ux web design"
-          hobbies = ["reading", "gym", "programming", "gaming", "watching documentaries & movies"]
+          hobbies = ["reading", "gym", "chess", "programming", "gaming", "watching documentaries & movies"]
           return 0
 ```
 > *"Experience without theory is blind, but theory without experience is mere intellectual play."*
