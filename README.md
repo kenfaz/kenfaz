@@ -14,6 +14,11 @@ def self():
 ```
 > *"Experience without theory is blind, but theory without experience is mere intellectual play."*
 
+## 🏆 Certificates & Badges
+
+| <img height="150px" src="https://raw.githubusercontent.com/kenfaz/kenfaz/refs/heads/main/Pixel%20Perfect%20Certificate.jpg">  | 
+| ------------- | 
+| <a href="https://raw.githubusercontent.com/kenfaz/kenfaz/refs/heads/main/Pixel%20Perfect%20Certificate.jpg"> ![Static Badge](https://img.shields.io/badge/Figma%20Pixel%20Perfect-2025-blue) </a> | 
 
 
 ## 🎮 Stats          
