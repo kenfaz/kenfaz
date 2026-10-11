@@ -16,9 +16,9 @@ def self():
 
 ## 🏆 Certificates & Badges
 
-| <img height="150px" src="https://raw.githubusercontent.com/kenfaz/kenfaz/refs/heads/main/Scientific%20Computing%20with%20Python.png"> | <img height="150px" src="https://raw.githubusercontent.com/kenfaz/kenfaz/refs/heads/main/Pixel%20Perfect%20Certificate.jpg">  | 
-| ------------- | ------------- |
-| <a href="https://raw.githubusercontent.com/kenfaz/kenfaz/refs/heads/main/Pixel%20Perfect%20Certificate.jpg"> ![Static Badge](https://img.shields.io/badge/Scientific%20Computing%20with%20Python-2022-blue) </a> | <a href="https://raw.githubusercontent.com/kenfaz/kenfaz/refs/heads/main/Pixel%20Perfect%20Certificate.jpg"> ![Static Badge](https://img.shields.io/badge/Figma%20Pixel%20Perfect-2025-blue) </a> 
+| <img height="150px" src="https://raw.githubusercontent.com/kenfaz/kenfaz/refs/heads/main/Problem%20Solving%20(Basic).png"> | <img height="150px" src="https://raw.githubusercontent.com/kenfaz/kenfaz/refs/heads/main/Scientific%20Computing%20with%20Python.png"> | <img height="150px" src="https://raw.githubusercontent.com/kenfaz/kenfaz/refs/heads/main/Pixel%20Perfect%20Certificate.jpg">  | 
+| ------------- | ------------- | ------------- |
+| <a href="https://www.hackerrank.com/certificates/b7db063ed65c"> ![Static Badge](https://img.shields.io/badge/Problem%20Solving%20(Basic)-2022-blue) </a> |<a href="[https://raw.githubusercontent.com/kenfaz/kenfaz/refs/heads/main/Pixel%20Perfect%20Certificate.jpg](https://www.freecodecamp.org/certification/khenfaz/scientific-computing-with-python-v7)"> ![Static Badge](https://img.shields.io/badge/Scientific%20Computing%20with%20Python-2022-blue) </a>  | <a href="https://raw.githubusercontent.com/kenfaz/kenfaz/refs/heads/main/Pixel%20Perfect%20Certificate.jpg"> ![Static Badge](https://img.shields.io/badge/Figma%20Pixel%20Perfect-2025-blue) </a> | 
 
 
 ## 🎮 Stats          
