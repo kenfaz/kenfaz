@@ -9,7 +9,7 @@ def self():
           occupation = "student"
           focus = "ui/ux web design"
           hobbies = ["reading", "gym", "chess", "programming", "gaming", "watching documentaries & movies"]
-          fav_books = ["Crime & Punishment", "The Mysterious Benedict Society", "The Laws of Human Nature", "Animal Farm"]
+          fav_books = ["Crime & Punishment", "The Mysterious Benedict Society", "The Laws of Human Nature", "Animal Farm", "Some People Need Killing"]
           return 0
 ```
 > *"Experience without theory is blind, but theory without experience is mere intellectual play."*
