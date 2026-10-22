@@ -24,7 +24,6 @@ def self():
 
 
 ## 🎮 Stats          
-
 ![kenfaz's GitHub Stats](https://readme-stats-github.pages.dev/api?username=kenfaz&theme=dark)
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=kenfaz&theme=dark)
 ```python
