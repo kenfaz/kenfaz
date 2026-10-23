@@ -24,9 +24,8 @@ def self():
 
 
 ## 🎮 Stats          
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenfaz&theme=bear&show_icons=true&hide_border=false&count_private=true)
 ![GitHub Stats](https://streak-stats.demolab.com?user=kenfaz&theme=bear&hide_border=false) </br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenfaz&theme=bear&show_icons=true&hide_border=false&count_private=true) </br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kenfaz&theme=bear&show_icons=true&hide_border=false&layout=compact) </br>
 
 ```python
