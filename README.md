@@ -24,8 +24,11 @@ def self():
 
 
 ## 🎮 Stats          
-![kenfaz's GitHub Stats](https://readme-stats-github.pages.dev/api?username=kenfaz&theme=dark)
-![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=kenfaz&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenfaz&theme=bear&show_icons=true&hide_border=false&count_private=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=kenfaz&theme=bear&hide_border=false) </br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kenfaz&theme=bear&show_icons=true&hide_border=false&layout=compact) </br>
+
 ```python
 while drink == "coffee":
           code()
@@ -43,6 +46,7 @@ while drink == "coffee":
 <!-- <img alt="spotify" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg"> -->
           
 ## 🍵 Languages
+
 <img align="left" alt="C" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Python" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />          
